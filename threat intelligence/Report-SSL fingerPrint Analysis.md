@@ -33,7 +33,7 @@ Please refer to the provided link for the complete analysis.
 
 Below is a screenshot of the SSL fingerprint analysis results:
 
-![SSL Fingerprint Analysis]([https://photos.app.goo.gl/ptDdWoCxiBztmsfW9])
+![SSL Fingerprint Analysis](https://photos.app.goo.gl/ptDdWoCxiBztmsfW9)
 
 You can see the details of the analysis in the screenshot above.
 
